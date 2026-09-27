@@ -1,7 +1,8 @@
 <script setup>
-
+import FrontWheel from "@/components/FrontWheel.vue";
 </script>
 
 <template>
-  <h1>Hello Vue3!</h1>
+  <!-- 앞 바퀴 컴포넌트 -->
+  <front-wheel/>
 </template>
