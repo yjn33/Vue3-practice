@@ -1,10 +1,11 @@
 <script setup>
-
+import Tire from "@/components/Tire.vue";
 </script>
 
 <template>
   <div class="rear-wheel">
     <span>Rear Wheel</span>
+    <Tire/>
   </div>
 </template>
 
